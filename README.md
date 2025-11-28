@@ -14,6 +14,7 @@ Daniel Duque
 1000100877
 Ingenieria De Sistemas
 
-- link video final: https: https://youtu.be/Eggpms3dLKk?si=5i4MUSWrObFxtBgK
+- link video Entrega 2: https://www.youtube.com/watch?v=4eLgohjHMnY
+- link video final: https://youtu.be/Eggpms3dLKk?si=5i4MUSWrObFxtBgK
 
-link video Entrega 2: https://www.youtube.com/watch?v=4eLgohjHMnY
+
